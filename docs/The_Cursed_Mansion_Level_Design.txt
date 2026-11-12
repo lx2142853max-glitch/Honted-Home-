@@ -1,0 +1,676 @@
+THE CURSED MANSION: THREE SEALS HAUNTED ESTATE – ENVIRONMENT
+REVERSE-ENGINEERING & LEVEL DESIGN DOCUMENT Version 1.0 | Concept based
+on the supplied mansion reference image
+
+====================================================================== 1.
+DESIGN INTENT
+======================================================================
+
+This document treats the supplied picture as a visual reference, not as
+a real architectural survey. The visible building is a large
+Victorian/Gothic mansion on a raised rocky plot, surrounded by a dead
+garden, iron fencing, a long entrance path, gravestones, bare trees and
+heavy night fog. The design below expands that image into a playable,
+interconnected horror-adventure level.
+
+Core design goals: - The mansion must feel much larger inside than it
+appears from the front. - The player should be able to explore, get
+lost, discover shortcuts and gradually understand the building. - The
+house is not just a boss arena. It is the central world hub connecting
+three villain territories. - Every locked door, symbol, strange sound
+and unusual object should have a gameplay purpose. - At least three
+complete floors, a basement network, an attic and outdoor grounds are
+required. - All supernatural systems are fictional game mechanics.
+
+Suggested game camera: first-person or over-the-shoulder third-person.
+Suggested structure: one continuous estate map divided by locked gates,
+keys, puzzles and boss progression. Suggested mood: cold moonlight, deep
+blue-grey shadows, occasional green/orange window light, wind, rain,
+distant bells and floor creaks.
+
+======================================================================
+2. WHAT CAN BE READ FROM THE REFERENCE IMAGE
+======================================================================
+
+Visible visual clues: 1. A tall central tower rises above the rest of
+the mansion. 2. The building has multiple steep roofs, pointed gables,
+dormer windows and narrow turrets. 3. The front entrance sits above
+ground level and is reached by a long stone path and steps. 4. A covered
+porch or veranda runs along part of the front. 5. Several windows glow
+green, while a few glow warm orange. 6. The mansion sits on an uneven
+rocky mound rather than a flat lawn. 7. An iron fence and gate define
+the front boundary. 8. The foreground contains a cracked path, dead
+shrubs, bare trees and gravestones. 9. Fog and a dark forest conceal the
+estate boundary. 10. The moon and storm clouds create a clear night-time
+silhouette.
+
+Design interpretation: - Green windows suggest a sealed laboratory,
+cursed library or supernatural power room. - Orange windows suggest
+ordinary lanterns, an old caretaker room or a misleading safe-looking
+location. - The tower is the strongest landmark and should be visible
+from the front garden, courtyard and some upper-floor windows. - The
+raised rocky foundation makes a lower crypt and service tunnel plausible
+as fictional level spaces. - The graveyard should connect to the house
+through a side gate and a hidden underground route.
+
+Do not make every window accessible. Some should be decorative
+silhouettes; others should reveal rooms the player can later reach from
+inside.
+
+======================================================================
+3. ESTATE MAP – BIG-PICTURE LAYOUT
+======================================================================
+
+The estate is divided into eight connected regions:
+
+A. Front Approach and Gate B. Front Garden and Graveyard C. Main Mansion
+– three floors D. West Wing – puppet and doll territory E. East Wing –
+spirit and archive territory F. Rear Garden, greenhouse and ruined
+chapel G. Underground Basement, crypt and hidden tunnel network H.
+Central Tower and sealed upper chamber
+
+Suggested navigation: - The front gate leads to the front path. - The
+front path leads to the porch and main entrance. - The main entrance
+opens into the grand hall. - The grand hall connects to the west wing,
+east wing, main staircase and rear conservatory. - The west wing
+contains Morvex-related clues and the doll workshop. - The east wing
+contains Vorak-related clues and the spirit archive. - The basement
+connects to the kitchen stores, boiler room, crypt and hidden tunnel. -
+The rear garden connects to the greenhouse, chapel ruins and a concealed
+tunnel entrance. - The third floor connects to the central tower. - The
+tower contains the final seal mechanism and clues about Grimthor.
+
+The player should gradually unlock loops. For example, a basement
+service door can open back into the kitchen, creating a shortcut instead
+of forcing the player to repeat the whole route.
+
+======================================================================
+4. OUTDOOR GROUNDS – FULL DETAIL
+======================================================================
+
+4.1 OUTER FOREST - A narrow muddy trail leads from the road to the
+estate. - Fallen branches, tree roots, rocks and thick fog limit
+visibility. - A broken signpost carries a faded mansion emblem. - A
+distant bell rings at irregular intervals. - A collapsed stone wall
+hints that the estate once covered a much larger area. - Optional
+collectible: a torn survey map showing an erased path.
+
+Gameplay: - Teach movement, crouching, looking behind objects and
+reading environmental clues. - The forest is a boundary zone, not an
+open-world forest. - A locked maintenance gate prevents leaving before
+the first story objective.
+
+4.2 FRONT IRON GATE Visual design: - Two tall wrought-iron leaves with
+pointed finials. - Central circular crest showing three interlocked
+symbols. - Rusted chain and a heavy mechanical lock. - Two stone pillars
+topped with weathered lanterns. - A small keeper’s box beside the gate.
+
+Interactions: - Gate is initially locked. - The crest has three empty
+recesses for the three Seals. - A small side hatch can be opened later
+from the inside. - The gate should visibly react when each Seal is
+acquired.
+
+4.3 FRONT PATH AND STEPS - Long uneven cobblestone path, cracked in
+places. - Dead weeds grow between stones. - Three pairs of low path
+lanterns; only one works at the start. - Stone steps climb toward the
+raised porch. - A drain channel runs beside the steps and can later
+reveal a basement access clue. - A loose paving stone hides a small key
+or note.
+
+4.4 FRONT GARDEN - Dead rose beds, thorn bushes, broken statues and a
+dry fountain. - A circular flowerbed has a three-part pattern matching
+the gate crest. - A toppled angel statue points toward a hidden ground
+marker. - A locked garden shed stores maintenance equipment. - A
+birdbath reflects a window that is not visible from the player’s current
+position.
+
+4.5 GRAVEYARD - Several uneven gravestones, a family mausoleum and a low
+iron fence. - Names and dates tell a small family history. - One grave
+has a newer stone among much older graves. - A cracked mausoleum floor
+leads to a lower crypt passage after a puzzle. - The graveyard is
+connected to the basement tunnel, but the connection is not available
+immediately.
+
+Gameplay: - Find grave inscriptions that reveal a combination. - Use the
+Phantom Eye or equivalent story item to reveal a hidden symbol. - The
+mausoleum is a quiet exploration zone with distant footsteps and moving
+shadows.
+
+4.6 SIDE COURTYARD - Narrow passage between mansion and boundary wall. -
+Rain barrel, broken cart, stacked firewood and a locked service door. -
+A drain grate gives a view into the basement corridor. - A small statue
+marks the entrance to the old servant passage.
+
+4.7 REAR GARDEN - Overgrown lawn, dead fountain, tangled hedges and a
+collapsed gazebo. - A stone sundial has symbols rather than numbers. - A
+garden maze has a simple looping layout, not a frustrating random
+maze. - A statue’s shadow points to the greenhouse at a specific in-game
+time. - A hidden hatch beneath ivy leads to the tunnel network.
+
+4.8 GREENHOUSE - Broken glass roof, dead vines, empty plant pots and a
+rusted irrigation system. - A locked cabinet contains a rare object or
+crafting component. - A plant table contains notes about the mansion’s
+former owner. - A back door leads to the ruined chapel path.
+
+4.9 RUINED CHAPEL - Small roofless chapel behind the greenhouse. -
+Cracked altar, empty candle holders and a bell frame. - Three floor
+tiles show the same symbols as the three Boss territories. - A concealed
+wall niche contains an old record of the guardians. - This area
+foreshadows the final chamber without revealing the whole mystery.
+
+======================================================================
+5. MANSION EXTERIOR – ARCHITECTURAL BREAKDOWN
+======================================================================
+
+Overall silhouette: - Central tower: tallest element, slightly set back
+from the front facade. - Main block: three storeys with irregular
+rooflines. - West wing: steep triangular gable and narrow windows. -
+East wing: turret and a projecting bay window. - Front porch: covered
+entrance with columns and a balcony/veranda above. - Roof: slate
+shingles, moss, broken gutters and several chimneys. - Foundation: rough
+stone base, visibly raised above the garden.
+
+Suggested fictional scale: - Main building footprint: approximately 42 m
+wide x 30 m deep. - Main floor-to-floor height: 4.2 m. - Third floor and
+attic spaces: variable 3.2–4 m. - Central tower: approximately 18–22 m
+above ground. - Outdoor playable estate: approximately 150 m x 130 m.
+These are game-blockout estimates, not measurements taken from the
+image.
+
+Exterior details: - Rainwater pipes, cracked stone, ivy, missing roof
+tiles and boarded windows. - A few windows have curtains that move even
+when there is no wind. - One upper window occasionally shows a
+silhouette. - A balcony door is visible but locked from the inside. - A
+broken drainpipe gives access to a small ledge, but not a full climbing
+system. - Gargoyle-like stone ornaments mark the west and east wings. -
+The tower roof has a weather vane shaped like the mansion crest.
+
+======================================================================
+6. FLOOR 1 – GROUND FLOOR / PUBLIC ROOMS
+======================================================================
+
+Purpose: orientation, first exploration, basic keys and the first links
+between wings.
+
+6.1 GRAND ENTRANCE HALL - Double front doors with a heavy internal
+bar. - Black-and-white patterned floor. - Large staircase curving to the
+second floor. - Three portraits with scratched faces. - A stopped
+grandfather clock. - Main chandelier with several missing bulbs. - A
+large wall emblem with three empty seal slots. - Doors to the dining
+room, west corridor, east corridor and rear conservatory.
+
+Gameplay: - First major navigation hub. - The player learns that the
+house has three wings or guardian territories. - The clock hands can be
+adjusted later to reveal a hidden compartment.
+
+6.2 RECEPTION / STUDY - Desk, ink bottles, locked drawers and a wall
+map. - A torn letter mentions the three guardians. - A drawer contains a
+partial mansion plan. - A bookshelf can slide after a book-order
+puzzle. - A small safe requires a clue from the graveyard.
+
+6.3 LIBRARY - Two-level bookshelves, rolling ladder and a reading
+balcony. - A fireplace with a false back panel. - Books arranged by
+symbols, not alphabetically. - One shelf contains a hidden switch. - A
+locked archive cabinet stores a guardian journal. - A narrow door
+connects to the east wing.
+
+6.4 DINING ROOM - Long table with thirteen chairs. - Dusty plates,
+silverware and a broken serving trolley. - Portraits of former
+residents. - A dumbwaiter shaft links to the kitchen below. - A place
+setting puzzle reveals a small key.
+
+6.5 KITCHEN - Large stove, sink, pantry shelves and hanging utensils. -
+Cold fireplace and a locked pantry. - A service stair descends to the
+basement. - A loose floorboard hides a note. - The pantry contains food
+props and basic crafting supplies.
+
+6.6 CONSERVATORY - Glass ceiling, dead plants and wet stone floor. - A
+cracked fountain with a circular symbol. - Rear door opens to the garden
+after the latch puzzle. - A green-lit window visible from outside
+belongs to a sealed side room nearby.
+
+6.7 WEST CORRIDOR - Narrow corridor with old family photographs. -
+Doll-sized footprints appear in dust. - A small locked door leads to the
+west wing. - A wall panel hides a shortcut to the grand hall after
+Morvex’s first puzzle.
+
+6.8 EAST CORRIDOR - Colder lighting, damp wallpaper and faint
+whispering. - Several doors have scratched circular symbols. - Leads
+toward the spirit archive and a sealed room linked to Vorak.
+
+======================================================================
+7. FLOOR 2 – BEDROOMS / WEST AND EAST WINGS
+======================================================================
+
+Purpose: stealth, hiding, more complex puzzles and the first boss
+territory access.
+
+7.1 MAIN LANDING - Balcony overlooking the grand hall. - Large mirror
+with a covered section. - Doors to bedrooms and both wings. - A locked
+cabinet contains a floor plan fragment.
+
+7.2 MASTER BEDROOM - Four-poster bed, wardrobe, dressing table and
+fireplace. - A hidden compartment behind a portrait. - A diary explains
+why the family abandoned the mansion. - Wardrobe can be used as a hiding
+place. - A balcony door looks over the front garden.
+
+7.3 GUEST BEDROOMS - Three rooms with different clues. - One has a
+broken music box. - One has a locked trunk. - One has a window facing
+the graveyard. - Each room can contain a note, key or puzzle component.
+
+7.4 CHILDREN’S ROOM - Old toys, small beds, drawings and a dollhouse. -
+The dollhouse reproduces the mansion layout. - Moving a miniature object
+can reveal the location of a real hidden switch. - A small crawlspace
+connects to the west wing.
+
+7.5 WEST WING – MORVEX TERRITORY Rooms: - Puppet Gallery: mannequins and
+suspended marionettes. - Doll Workshop: worktables, spare parts and
+locked cabinets. - Music Room: piano, music cylinders and a
+sound-pattern puzzle. - Control Room: a wall diagram of the puppet
+network. - Storage Room: broken toys and crafting materials.
+
+Environmental clues: - Strings move when no puppet is visible. - A
+music-box melody can be heard in more than one room. - Some dolls change
+position when the player looks away. - A service hatch links the
+workshop to the basement.
+
+7.6 EAST WING – VORAK TERRITORY Rooms: - Spirit Archive: journals, glass
+cases and spectral diagrams. - Seance Room: circular floor pattern and
+covered mirrors. - Observatory: telescope pointed toward the moon. -
+Cold Chamber: frost-covered walls and a sealed cabinet. - Forgotten
+Chapel Room: a small indoor shrine with a missing emblem.
+
+Environmental clues: - Cold air leaks from one wall. - Reflections do
+not always match the room. - Faint voices lead toward hidden notes. - A
+locked archive door opens after a light-and-symbol puzzle.
+
+7.7 SECOND-FLOOR SERVICE PASSAGE - Narrow passage behind wardrobes and
+wall panels. - Connects the west and east wings. - Initially blocked by
+a fallen shelf. - Once opened, it creates a useful shortcut between both
+territories.
+
+======================================================================
+8. FLOOR 3 – ATTIC LEVEL / FORBIDDEN ROOMS
+======================================================================
+
+Purpose: advanced lore, dangerous exploration and access to the central
+tower.
+
+8.1 ATTIC LANDING - Low beams, dusty trunks and sloped ceilings. - Roof
+windows show the storm and tower. - A locked iron door leads to the
+central tower stair. - A broken staircase section requires a route
+around storage rooms.
+
+8.2 FAMILY ARCHIVE - Old ledgers, photographs, maps and sealed
+documents. - The player learns that the guardians once protected the
+estate. - A family tree connects the former residents to the pendant. -
+A coded page hints that the three Seals are not ordinary keys.
+
+8.3 TAXIDERMY / DISPLAY ROOM - Covered display cases, old hunting
+trophies and strange labels. - One case is empty but has a fresh dust
+outline. - A clue is hidden behind a display base. - Keep this room
+eerie rather than graphic.
+
+8.4 LOCKED OBSERVATION ROOM - Narrow windows overlook the front gate and
+graveyard. - A mechanical telescope can be rotated. - Aligning it with
+three exterior landmarks reveals a symbol sequence. - The sequence
+unlocks a hidden compartment.
+
+8.5 FORBIDDEN STUDY - Desk, sealed books, star chart and a wall of
+symbols. - A false bookshelf conceals the entrance to a narrow stair. -
+The room contains the first clear reference to the Unknown Fourth
+Entity. - The player should not meet the final entity here; only
+foreshadow it.
+
+8.6 CENTRAL TOWER STAIR - Spiral stone stair with uneven steps. - Narrow
+arrow-slit windows. - A bell rope hangs down but is cut. - Three
+landings each show one guardian emblem. - The upper door remains sealed
+until all three Boss Seals are obtained.
+
+======================================================================
+9. BASEMENT – SERVICE LEVEL AND CRYPT
+======================================================================
+
+Purpose: connect all parts of the estate and provide the main hidden
+tunnel network.
+
+9.1 BASEMENT STAIR - Access from kitchen and a concealed stair near the
+library. - Damp stone walls, pipes and old electrical conduits. - A
+flickering lamp and water dripping into a bucket. - A locked maintenance
+door.
+
+9.2 BOILER ROOM - Old boiler, pressure gauges, valves and coal
+storage. - A safe puzzle uses the gauge positions. - A service tunnel
+entrance is visible but blocked. - Restoring the boiler can power
+selected mansion mechanisms.
+
+9.3 WINE CELLAR - Rows of dusty bottles, wooden racks and a locked
+cage. - Bottle labels form a code. - One rack slides aside to reveal a
+narrow passage. - A rare collectible can be placed here.
+
+9.4 STORAGE ROOM - Crates, spare furniture, old tools and covered
+objects. - One crate contains the original front-gate crest. - A wall
+map reveals the estate’s old underground layout.
+
+9.5 CRYPT - Family tombs, stone shelves and sealed niches. - Three
+guardian emblems are carved into the central floor. - A hidden floor
+panel opens after a three-symbol puzzle. - This crypt connects to the
+graveyard mausoleum.
+
+9.6 HIDDEN TUNNEL NETWORK Tunnel branches: A. Crypt to Graveyard
+Mausoleum. B. Boiler Room to Rear Garden drain. C. West Wing workshop to
+Storage Room. D. Rear Garden hatch to Ruined Chapel. E. A sealed branch
+toward the unknown underground chamber.
+
+Tunnel details: - Low stone ceiling, occasional timber supports and
+shallow water. - Old directional plaques show a simple emblem system. -
+Some branches are blocked by collapsed masonry. - A few grates let the
+player hear rooms above. - The tunnel map is found in pieces, not given
+at the start. - Add safe navigation landmarks so the player can learn
+the network.
+
+9.7 UNKNOWN UNDERGROUND PLACE – THE NULL CHAMBER - A circular room
+beneath the central tower. - No visible door from the tunnel side until
+the three Seals are found. - The walls absorb most ambient sound. - Four
+empty pedestals surround a dark central plinth. - Three pedestals match
+the guardian Seals; the fourth has an unfamiliar symbol. - A broken
+mural depicts three guardians facing a shape with no face. - The pendant
+reacts here. - This is the gateway to the next chapter, not the final
+boss fight itself.
+
+======================================================================
+10. CENTRAL TOWER – THE THREE-SEAL SANCTUM
+======================================================================
+
+Lower tower: - A narrow landing with a locked iron door. - Three
+guardian symbols engraved into the floor. - A small window overlooks the
+front gate.
+
+Middle tower: - A bell chamber with a large cracked bell. - Three ropes,
+only one connected. - A rotating mechanism aligns the guardian
+emblems. - A hidden stair leads to the upper chamber.
+
+Upper tower: - A circular room beneath the roof. - Three Seal holders
+around a central stone table. - The player’s pendant fits into a fourth
+recess. - The tower weather vane casts a symbol-shaped shadow at
+moonrise. - Once the three Seals are placed, the tower reveals the route
+to the Null Chamber.
+
+======================================================================
+11. HAUNTED SYMBOL SYSTEM
+======================================================================
+
+Create a consistent visual language. Symbols should be readable and
+reused across doors, floor tiles, notes, statues and puzzle devices.
+
+Symbol A – Soul Spiral: - Three curved lines around a central dot. -
+Used by Vorak. - Meaning: spirit movement and memory.
+
+Symbol B – Marionette Knot: - A small diamond with four thread-like
+arms. - Used by Morvex. - Meaning: control, connection and repetition.
+
+Symbol C – Broken Crown: - Three upward points with a gap in the
+centre. - Used by Grimthor. - Meaning: guardian authority and curse.
+
+Symbol D – House Crest: - A tower inside a circle with three outer
+marks. - Used on the front gate and family documents. - Meaning: the
+estate itself.
+
+Symbol E – The Unknown Mark: - An incomplete circle with a missing
+centre. - Appears only in late-game areas. - Meaning is not explained
+until the next chapter.
+
+Symbol placement: - Carved into stone near important doors. - Stamped
+into keys and seals. - Scratched into furniture by previous residents. -
+Embroidered on old banners. - Hidden in stained-glass window patterns. -
+Printed in the margins of journals.
+
+Puzzle rule: - Never use a symbol only as decoration if it looks
+important. - Important symbols should repeat at least three times before
+the player is expected to understand them. - Provide optional journal
+sketches to help players remember them.
+
+======================================================================
+12. DOOR TYPES AND LOCKING SYSTEM
+======================================================================
+
+1.  Ordinary wooden door: Opens normally; may creak loudly.
+
+2.  Jammed door: Requires a simple environmental interaction or
+    alternate route.
+
+3.  Key-locked door: Requires a named key found in the same general
+    region.
+
+4.  Symbol-locked door: Requires the correct symbol sequence.
+
+5.  Mechanical door: Requires power restored from the boiler room or a
+    gear mechanism.
+
+6.  Hidden door: Revealed by moving a book, mirror, portrait or wall
+    panel.
+
+7.  Boss-sealed door: Opens after the corresponding Boss encounter.
+
+8.  One-way shortcut door: Opens from the far side after exploration.
+
+9.  Tunnel hatch: Requires a crank, handle or access key.
+
+10. Final tower door: Requires all three Boss Seals and the pendant.
+
+Door feedback: - Correct key: distinct metal click. - Wrong symbol: low
+stone vibration. - Boss seal door: emblem glows briefly. - Hidden door:
+dust falls and a mechanical sound plays. - Do not make every locked door
+use the same key; each lock type should teach a different rule.
+
+======================================================================
+13. INTERCONNECTED BOSS TERRITORIES
+======================================================================
+
+VORAK – EAST WING / SPIRIT ARCHIVE - Main area: Seance Room, Spirit
+Archive and Cold Chamber. - Supporting area: Observatory and crypt
+branch. - Main clue: the Soul Spiral. - Boss arena: a sealed chamber
+behind the archive. - Reward: First Seal. - Unlock: a shortcut from the
+east wing to the grand hall.
+
+MORVEX – WEST WING / PUPPET WORKSHOP - Main area: Puppet Gallery, Doll
+Workshop and Music Room. - Supporting area: Children’s Room and basement
+service hatch. - Main clue: the Marionette Knot. - Boss arena: the
+hidden theatre beneath the west wing. - Reward: Second Seal. - Unlock:
+the service passage between both wings.
+
+GRIMTHOR – TOWER / FORBIDDEN LEVEL - Main area: Forbidden Study, tower
+stair and crypt. - Supporting area: ruined chapel and underground
+chamber. - Main clue: the Broken Crown. - Boss arena: the upper tower
+sanctum. - Reward: Third Seal. - Unlock: access to the Null Chamber.
+
+Each boss area must be reachable through the mansion’s shared corridors
+and shortcuts. Do not build three disconnected maps.
+
+======================================================================
+14. PLAYER EXPLORATION AND SURVIVAL SYSTEMS
+======================================================================
+
+Player actions: - Walk, run, crouch and interact. - Inspect notes,
+portraits, symbols and objects. - Hide in wardrobes, under selected beds
+and behind large furniture. - Carry a limited number of tools. - Open
+and close doors carefully. - Use a journal to record clues and map
+discoveries. - Place quest objects in a separate protected inventory
+category.
+
+Sound system: - Running on wood creates more noise than walking on
+carpet. - Dropping an object can attract a nearby enemy. - Doors have
+different sound levels. - Rain and thunder sometimes mask player
+movement. - Sound clues should be directional but not unfair.
+
+Hiding system: - Hiding places must be visually understandable. - Some
+enemies can inspect a hiding place after a clue or sound. - Do not make
+every hiding place safe forever. - Provide a clear escape route from
+hiding locations.
+
+Map system: - The player starts with a partial ground-floor plan. - New
+areas are drawn after entering them. - Hidden passages appear only after
+discovery. - Use consistent icons for locked doors, puzzle devices,
+stairs and discovered shortcuts.
+
+Save system: - Save at clear checkpoints or selected safe rooms. - Save
+collected quest objects and unlocked shortcuts. - Boss progress must
+persist after a checkpoint. - Avoid losing a long exploration session
+due to one mistake.
+
+======================================================================
+15. LIGHTING, WEATHER AND AUDIO
+======================================================================
+
+Lighting: - Moonlight: cool blue-grey exterior fill. - Green window
+glow: cursed or supernatural room. - Orange window glow: lantern,
+fireplace or misleading safe zone. - Candlelight: small warm pools with
+strong moving shadows. - Basement: low visibility but readable
+navigation landmarks. - Tower: moonlight through narrow windows and
+occasional lightning flashes.
+
+Weather: - Continuous light rain during the opening. - Stronger wind
+near the tower. - Occasional thunder, not constantly. - Fog is denser
+around the graveyard and rear garden. - Weather changes should be
+scripted at story milestones, not random enough to obscure navigation.
+
+Audio: - Wind through broken windows. - Distant bell from the tower. -
+Floorboard creaks. - Pipe knocks in the basement. - A music-box phrase
+in the west wing. - Faint whispers in the east wing. - Low mechanical
+ticking near the tower. - Silence in the Null Chamber.
+
+Audio fairness: - Important sounds should have a recognizable source or
+journal explanation. - Do not use loud jumpscares as the only way to
+communicate danger. - Use quiet environmental cues to build tension.
+
+======================================================================
+16. STORY CLUE PLACEMENT
+======================================================================
+
+Use short notes, not long exposition dumps.
+
+Clue 1 – Front Gate: “The house remembers every name written upon its
+stones.”
+
+Clue 2 – Study: “Three keepers. Three seals. One door beneath the
+tower.”
+
+Clue 3 – Children’s Room: A drawing shows three figures standing around
+a fourth empty shape.
+
+Clue 4 – Spirit Archive: The guardians were once protectors, not
+monsters.
+
+Clue 5 – Puppet Workshop: The dolls repeat a melody heard before the
+mansion was cursed.
+
+Clue 6 – Forbidden Study: The curse came from something the guardians
+were trying to contain.
+
+Clue 7 – Crypt: The three Seals are parts of one larger lock.
+
+Clue 8 – Null Chamber: The fourth pedestal is older than the mansion
+itself.
+
+Keep the true identity of the Unknown Entity hidden until the next
+chapter.
+
+======================================================================
+17. GAME PROGRESSION – SUGGESTED ORDER
+======================================================================
+
+Opening: 1. Arrive at the outer forest. 2. Find the gate clue. 3. Enter
+the front garden. 4. Discover the main entrance. 5. Explore the ground
+floor and obtain a partial map.
+
+Early exploration: 6. Unlock the kitchen and basement stairs. 7. Find
+the library shortcut. 8. Explore the second-floor bedrooms. 9. Discover
+that both wings are sealed by different symbols.
+
+Boss chapter 1: 10. Explore the east wing. 11. Find Vorak’s tools and
+clues. 12. Solve the archive puzzles. 13. Complete the Vorak encounter
+and obtain the First Seal.
+
+Boss chapter 2: 14. Open the west wing. 15. Explore the doll workshop
+and music room. 16. Find Morvex’s tools and clues. 17. Complete the
+Morvex encounter and obtain the Second Seal.
+
+Late exploration: 18. Open the service passage and more tunnel branches.
+19. Explore the graveyard, greenhouse and ruined chapel. 20. Discover
+the Forbidden Study and tower stair.
+
+Boss chapter 3: 21. Find Grimthor’s clues and crafting components. 22.
+Solve the tower and crypt puzzles. 23. Complete the Grimthor encounter
+and obtain the Third Seal.
+
+Final mystery: 24. Place all three Seals in the tower. 25. Open the Null
+Chamber. 26. Discover the fourth pedestal and the Unknown Mark. 27. End
+the chapter with a new mystery.
+
+======================================================================
+18. CONTENT CHECKLIST FOR THE LEVEL
+======================================================================
+
+Architecture: [ ] Three complete floors [ ] Central tower with multiple
+landings [ ] Attic and roof silhouette [ ] Basement and crypt [ ] West
+and east wings [ ] Front porch and balcony [ ] Rear conservatory [ ] At
+least one service staircase [ ] Multiple shortcut doors
+
+Outdoor grounds: [ ] Outer forest path [ ] Front iron gate [ ] Long
+stone approach [ ] Front garden [ ] Graveyard and mausoleum [ ] Side
+courtyard [ ] Rear garden [ ] Greenhouse [ ] Ruined chapel [ ] Hidden
+exterior hatch
+
+Secret spaces: [ ] Sliding library shelf [ ] Hidden study compartment [
+] Dollhouse puzzle [ ] Puppet workshop service hatch [ ] Crypt floor
+panel [ ] Graveyard tunnel [ ] Rear garden drain [ ] Central tower
+sanctum [ ] Null Chamber
+
+Gameplay: [ ] Named keys and different lock types [ ] Five or more
+symbol puzzles [ ] Hiding places [ ] Sound-based enemy awareness [ ]
+Journal and partial map [ ] Collectibles and quest inventory [ ] Boss
+progression [ ] Persistent shortcuts [ ] Save checkpoints [ ]
+Environmental storytelling
+
+======================================================================
+19. IMPLEMENTATION NOTES FOR A GAME DEVELOPER
+======================================================================
+
+Build the level in stages:
+
+Stage A – Greybox: - Use simple cubes and modular walls. - Establish
+room sizes, corridors, staircases and outdoor distances. - Make sure all
+three floors connect correctly. - Test navigation before adding visual
+detail.
+
+Stage B – Playable route: - Add doors, keys, locks, stairs, ladders only
+where needed, and shortcut loops. - Ensure the player can return to the
+grand hall from each wing. - Test the basement and tunnel network for
+confusing dead ends.
+
+Stage C – Puzzle logic: - Add symbols, clues, switches and state
+tracking. - Each puzzle should have a readable hint. - Make sure quest
+progression cannot be permanently blocked.
+
+Stage D – Art pass: - Add Gothic architecture, wood, stone, iron, glass,
+moss, ivy and weather damage. - Use repeated modular assets to control
+performance. - Keep silhouettes and navigation landmarks clear.
+
+Stage E – Horror pass: - Add lighting, fog, rain, sound cues, enemy
+patrol routes and scripted events. - Keep visual effects readable on
+mobile hardware.
+
+Stage F – Optimization: - Use level streaming or room-based loading
+where appropriate. - Use occlusion culling, LODs, texture atlases and
+baked lighting where suitable. - Limit simultaneous dynamic lights and
+expensive transparent fog effects. - Test on the minimum target Android
+device.
+
+Important: Do not generate the entire mansion as one uneditable static
+mesh. Use modular, named, reusable room and corridor pieces. Keep doors,
+puzzles, enemy triggers and quest objects as separate interactive game
+objects.
+
+The final result must be a navigable, playable interconnected mansion
+level, not just a rendered picture or a collection of disconnected
+rooms.

@@ -1,0 +1,10 @@
+{
+  "appId": "com.lx2142853max.hontedhome",
+  "appName": "Honted Home",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
